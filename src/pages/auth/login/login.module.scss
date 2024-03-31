@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+.form {
+  width: 250px;
+  background-color: rgb(233, 233, 233);
+  padding: 20px;
+  border-radius: 20px;
+}
+.title {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.error {
+  color: red;
+}
